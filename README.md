@@ -21,3 +21,7 @@ I made this project after reading ["In Defense of a Fussy Website"](https://css-
 
 * Font "Escafina" by [Riley Cran / LostType](http://escafina.losttype.com/) (Personal Use)  
 * Confetti Cannon by [Kiril Vatev](https://www.kirilv.com/canvas-confetti/)
+
+---
+
+> **Created by Antono**
