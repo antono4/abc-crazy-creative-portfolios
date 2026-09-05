@@ -1,32 +1,65 @@
-# eleventastic
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-A boilerplate for eleventy websites
+<h1 align="center">Project 👋</h1>
 
-## 📋 Overview
+<p align="center">
+  <strong></strong>
+</p>
 
-This repository contains **203 files** and is built with the following technologies:
-
-Node.js
-
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
-npm run build
-```
-
-## ✨ Features
-
-- 📝 Auto-generated documentation
-
-## 🛠️ Technologies
-
-Node.js
-
-## 📄 License
-
-MIT License
+<p align="center">
+  <a href="https://github.com/antono4/abc-crazy-creative-portfolios"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/abc-crazy-creative-portfolios-blue?logo=github"></a>
+  <a href="https://antono4.github.io/abc-crazy-creative-portfolios/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-203-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-05 22:42:47 WIB-lightgrey">
+</p>
 
 ---
-*Last updated: 2026-09-05 22:40:03 WIB*
+
+## 📖 Tentang
+
+Repository **`abc-crazy-creative-portfolios`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/abc-crazy-creative-portfolios/`](https://antono4.github.io/abc-crazy-creative-portfolios/).
+
+## 🗂️ Struktur Proyek
+
+```
+abc-crazy-creative-portfolios/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `SCSS`
+- `JavaScript`
+
+> Total **203 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/abc-crazy-creative-portfolios/](https://antono4.github.io/abc-crazy-creative-portfolios/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-09-05 22:42:47 WIB** oleh GitHub Actions .</sub>
