@@ -1,2 +1,32 @@
-Last updated: 2026-09-07 07:12:43 WIB
-Last updated: 2026-09-07 07:13:06 WIB
+# eleventastic
+
+A boilerplate for eleventy websites
+
+## 📋 Overview
+
+This repository contains **203 files** and is built with the following technologies:
+
+Node.js
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-07 07:54:34 WIB*
